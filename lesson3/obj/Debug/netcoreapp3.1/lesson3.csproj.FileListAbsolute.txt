@@ -1,0 +1,13 @@
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.exe
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.deps.json
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.json
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.dev.json
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\bin\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.csprojAssemblyReference.cache
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfoInputs.cache
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfo.cs
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\Guilh\Documents\projetos\LessonsC#\lesson3\obj\Debug\netcoreapp3.1\lesson3.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace lesson4
     {
         static void Main(string[] args)
         {
-            int carteira = 20;
+            int @carteira = 20;
 
             Console.WriteLine("Digite o nome do produto que deseja comprar");
             string nome = Console.ReadLine();
@@ -19,7 +19,7 @@ namespace lesson4
             var produto = new Produto();
             produto.Produtos(nome, valor);
 
-            Console.WriteLine(produto.compareValue(carteira));
+            Console.WriteLine(produto.compareValores(@carteira));
         }
     }
 }

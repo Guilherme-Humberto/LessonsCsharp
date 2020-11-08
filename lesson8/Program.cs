@@ -4,6 +4,7 @@ namespace lesson8
 {
     class Program
     {
+        // Não é possível criar métodos ou construtores em estruturas
         struct People
         {
             public string Name;
@@ -15,7 +16,8 @@ namespace lesson8
         static void Main(string[] args)
         {
             Console.WriteLine(Name);
-
+            
+            // Instânciando estrutura
             People people = new People();
             people.Name = "Guilherme";
             people.Surname = "Humberto";

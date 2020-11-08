@@ -7,12 +7,12 @@ namespace lesson5
         static void Main(string[] args)
         {
             Console.Write("Digite seu nome: ");
-            string nome = Console.ReadLine();
+            string @name = Console.ReadLine();
 
-            var pessoa = new Usuario();
-            pessoa.setName(nome);
+            var people = new User();
+            people.SetName(@name);
 
-            Console.Write(pessoa.setName());
+            Console.Write(people.SetName());
         }
     }
 }
